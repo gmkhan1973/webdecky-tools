@@ -1,9 +1,4 @@
 <?php
-/*
- * @author G.M Khan
- * @name WebDecky - YouTube Downloader
- * @copyright © 2026 webdecky.com
- */
 
 declare(strict_types=1);
 
